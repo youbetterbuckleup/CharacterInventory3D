@@ -1,0 +1,17 @@
+Source: https://kaylousberg.itch.io/kaykit-adventurers
+Author: Kay Lousberg (https://kaylousberg.com/)
+Package: KayKit_Adventurers_2.0_FREE
+Downloaded: 2026-09-30
+License: Creative Commons Zero (CC0); original License.txt included.
+
+Included original files:
+Characters/fbx/Barbarian.fbx
+Textures/barbarian_texture.png
+Animations/fbx/Rig_Medium/Rig_Medium_General.fbx
+Animations/fbx/Rig_Medium/Rig_Medium_MovementBasic.fbx
+
+Unity import settings, a character material and Animator Controller were added for this project.
+The original source FBX and texture bytes were not modified.
+
+Melee animations: KayKit Character Animations 1.1 (CC0), https://kaylousberg.itch.io/kaykit-character-animations
+Knight and weapons: KayKit Adventurers 2.0 (CC0).
